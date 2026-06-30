@@ -1,12 +1,12 @@
-# ¡Hola! Soy Polo Hernandez 👋
+# ¡Hola! Soy Polo Hernandez
 
-🎓 Estudiante de Desarrollo de Software  
-📍 Argentina  
-🎮 Apasionado por los videojuegos y el desarrollo
+Estudiante de Desarrollo de Software  
+Argentina  
+Apasionado por los videojuegos y el desarrollo
 
 ---
 
-## 🚀 Tecnologías que uso
+## Tecnologías que uso
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 Mis estadísticas
+## Mis estadísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoloHernandez11&show_icons=true&theme=dark&locale=es)
 
@@ -26,14 +26,14 @@
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## Actualmente aprendiendo
 - Desarrollo de videojuegos con **Godot**
 - APIs REST
 - Arquitectura MVC
 
 ---
 
-## 🎮 Intereses
+## Intereses
 - Desarrollo de videojuegos
 - Streaming y contenido
 - Programación orientada a objetos
