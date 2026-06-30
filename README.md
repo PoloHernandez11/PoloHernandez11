@@ -20,7 +20,7 @@ Apasionado por los videojuegos y el desarrollo
 
 ## Mis estadísticas
 
-![GitHub Stats](https://gh-readme-stats.vercel.app/api?username=PoloHernandez11&show_icons=true&theme=dark)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=PoloHernandez11&cc=000&tc=fff&ic=fff&bc=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoloHernandez11&layout=compact&theme=dark&cache_seconds=1800)
 
 ---
