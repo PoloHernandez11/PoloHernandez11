@@ -22,7 +22,6 @@ Apasionado por los videojuegos y el desarrollo
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=PoloHernandez11&cc=000&tc=fff&ic=fff&bc=000)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PoloHernandez11&layout=compact&theme=dark)
 
 ---
 
@@ -63,7 +62,6 @@ Passionate about gaming and development
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=PoloHernandez11&cc=000&tc=fff&ic=fff&bc=000)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PoloHernandez11&layout=compact&theme=dark)
 ---
 
 ## Currently learning
